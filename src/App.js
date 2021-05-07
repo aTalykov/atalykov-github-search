@@ -6,14 +6,12 @@ function App() {
 
   useEffect(() => {
     let form = document.getElementById('form');
-    if (form) {
       form.addEventListener('submit', (event) => {
         event.preventDefault();
 
         let username = document.getElementById('username').value;
         searchUsers(username)
       });
-    }
     return () => {
       console.log("уборка")
     }
