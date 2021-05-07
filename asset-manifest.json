@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atalykov-github-search/static/css/main.0442b0b8.chunk.css",
+    "main.js": "/atalykov-github-search/static/js/main.4dae4b69.chunk.js",
+    "main.js.map": "/atalykov-github-search/static/js/main.4dae4b69.chunk.js.map",
+    "runtime-main.js": "/atalykov-github-search/static/js/runtime-main.0903c5af.js",
+    "runtime-main.js.map": "/atalykov-github-search/static/js/runtime-main.0903c5af.js.map",
+    "static/js/2.b1172f12.chunk.js": "/atalykov-github-search/static/js/2.b1172f12.chunk.js",
+    "static/js/2.b1172f12.chunk.js.map": "/atalykov-github-search/static/js/2.b1172f12.chunk.js.map",
+    "static/js/3.9b3fd5e4.chunk.js": "/atalykov-github-search/static/js/3.9b3fd5e4.chunk.js",
+    "static/js/3.9b3fd5e4.chunk.js.map": "/atalykov-github-search/static/js/3.9b3fd5e4.chunk.js.map",
+    "index.html": "/atalykov-github-search/index.html",
+    "static/css/main.0442b0b8.chunk.css.map": "/atalykov-github-search/static/css/main.0442b0b8.chunk.css.map",
+    "static/js/2.b1172f12.chunk.js.LICENSE.txt": "/atalykov-github-search/static/js/2.b1172f12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0903c5af.js",
+    "static/js/2.b1172f12.chunk.js",
+    "static/css/main.0442b0b8.chunk.css",
+    "static/js/main.4dae4b69.chunk.js"
+  ]
+}
